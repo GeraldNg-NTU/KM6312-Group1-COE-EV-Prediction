@@ -13,11 +13,11 @@ To rebuild from source: Set REBUILD_FROM_LTA = True below and run from the begin
 This optional route uses the source discovery, extraction, transformation and export pipeline.
 
 Prepared by:  
-Group 1:   
-    Alvin Lu Tze Chinn     
-    Cheng TongTong  
-    Gerald Ng Ghim Yap   
-    Junia Rin Low Shu Jun  
-    Teo Chek Yew   
+Group 1:     
+Alvin Lu Tze Chinn (G2502948H)  
+Cheng TongTong (G2026900A)  
+Gerald Ng Ghim Yap (G2506566C)  
+Junia Rin Low Shu Jun (G2506488B)  
+Teo Chek Yew (G2611581K)  
 
 21 November 2026 
