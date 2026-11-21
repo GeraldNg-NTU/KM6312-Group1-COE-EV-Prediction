@@ -1,10 +1,10 @@
-From COE market dynamics to EV adoption: A predictive study of Singapore’s vehicle market 
+Project Title: From COE market dynamics to EV adoption: A predictive study of Singapore’s vehicle market 
 
 Data source: LTA DataMall
 
 Main notebook location: code/KM6312_Group1_V1.0.ipynb
 
-Data location: data/
+Data location: data/KM6312_Model_Ready_Monthly_DataMall
 
 How to run:  
 Download the notebook. Restart the Python kernel and Run All. 
