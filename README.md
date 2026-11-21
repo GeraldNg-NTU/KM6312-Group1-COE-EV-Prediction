@@ -14,10 +14,10 @@ This optional route uses the source discovery, extraction, transformation and ex
 
 Prepared by:
 Group 1: 
-    Alvin Lu Tze Chinn 
-    Cheng TongTong
-    Gerald Ng Ghim Yap 
-    Junia Rin Low Shu Jun
-    Teo Chek Yew 
+    Alvin Lu Tze Chinn   
+    Cheng TongTong  
+    Gerald Ng Ghim Yap   
+    Junia Rin Low Shu Jun  
+    Teo Chek Yew   
 
 21 November 2026 
