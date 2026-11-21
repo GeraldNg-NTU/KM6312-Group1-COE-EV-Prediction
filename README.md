@@ -12,9 +12,9 @@ The default uses the verified monthly dataset embedded here; no CSV, API access 
 To rebuild from source: Set REBUILD_FROM_LTA = True below and run from the beginning. 
 This optional route uses the source discovery, extraction, transformation and export pipeline.
 
-Prepared by:
-Group 1: 
-    Alvin Lu Tze Chinn   
+Prepared by:  
+Group 1:   
+    Alvin Lu Tze Chinn     
     Cheng TongTong  
     Gerald Ng Ghim Yap   
     Junia Rin Low Shu Jun  
