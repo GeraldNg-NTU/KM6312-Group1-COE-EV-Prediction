@@ -3,6 +3,7 @@ From COE market dynamics to EV adoption: A predictive study of Singapore’s veh
 Data source: LTA DataMall
 
 Main notebook location: code/KM6312_Group1_V1.0.ipynb
+
 Data location: data/
 
 How to run:  
