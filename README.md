@@ -9,7 +9,7 @@ Data location: data/KM6312_Model_Ready_Monthly_DataMall
 How to run:  
 Download the notebook. Restart the Python kernel and Run All. 
 The default uses the verified monthly dataset embedded here; no CSV, API access or manual path change is needed.
-To rebuild from source: Set REBUILD_FROM_LTA = True below and run from the beginning. 
+To rebuild from source: Set REBUILD_FROM_LTA = True in the python notebook and run from the beginning. 
 This optional route uses the source discovery, extraction, transformation and export pipeline.
 
 Prepared by:  
